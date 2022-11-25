@@ -305,6 +305,7 @@ struct DeviceState @0xa4d8b5af2aa492eb {
   lastAthenaPingTime @32 :UInt64;
 
   started @11 :Bool;
+  earlyStarted @44 :Bool;
   startedMonoTime @13 :UInt64;
 
   # system utilization
